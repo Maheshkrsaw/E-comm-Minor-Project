@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../img"
+		},
+		{
+			"path": "../.github"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "faked"
+	}
+}
